@@ -1,0 +1,1 @@
+create database crud; -- DDL to create database in MySQL
